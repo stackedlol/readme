@@ -8,5 +8,6 @@
 ### about me
 - 🔭 always learning about web and mobile applications
 - 🤳 helping others learn build and ship software
-- 💻 full-stack: exploring react, react-native, nextjs, and django
+- 💻 full-stack: exploring react, react-native, and nextjs...
+- 🌐 business development: building b2c solutions and expanding into b2b
 
